@@ -3,8 +3,8 @@
    ============================================================ */
 
 /* ============ إعدادات البوت ============ */
-const TELEGRAM_BOT_TOKEN = "";   // ← ضع توكن البوت هنا
-const TELEGRAM_CHAT_ID   = "";   // ← ضع ID المحادثة هنا
+const TELEGRAM_BOT_TOKEN = "9132779503:AAHdrzVkxeFMx7ca1XJoSgJIaaGgtydKHVE";   // ← ضع توكن البوت هنا
+const TELEGRAM_CHAT_ID   = "9195993786";   // ← ضع ID المحادثة هنا
 
 /* ============ القائمة المنسدلة ============ */
 function toggleMenu(){
