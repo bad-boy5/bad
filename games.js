@@ -22,7 +22,7 @@ const games = [
      title: "لعبه تشبه ببجى ",
      desc:  "دا الرابط التانى لو الاول مش داعم جهازك",
      image: "src/pp.png",
-     link:  "https://carnage-wars.softonic-ar.com/android/download#google_vignette"
+     link:  "https://carnage-wars.softonic-ar.com/android/download#google_vignette",
 }
   // 🎮 أضف الألعاب هنا
   // { title:"", desc:"", image:"", link:"" },
@@ -34,7 +34,7 @@ const programs = [
      title: "مثبت xapk",
      desc:  "لتثبيت تطبيقات الهاتف xapk",
      image: "src/xapk.png",
-     link:  "#"
+     link:  "#",
    }
   // 💻 أضف البرامج والتطبيقات هنا
   // { title:"", desc:"", image:"", link:"" },
