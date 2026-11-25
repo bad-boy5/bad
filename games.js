@@ -34,7 +34,7 @@ const programs = [
     title: "مثبت xapk",
     desc:  "لتثبيت تطبيقات الهاتف xapk",
     image: "src/xapk.png",
-    link:  "#"
+    link:  "https://play.google.com/store/apps/details?id=com.wuliang.xapkinstaller"
   }
   // 💻 أضف البرامج والتطبيقات هنا — كل عنصر ينتهي بفاصلة , (ما عدا الأخير)
   // { title:"", desc:"", image:"", link:"" }
